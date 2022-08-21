@@ -1,20 +1,4 @@
-hola git
-
-estamos probando el repositorio
-
-agregar cambio:
-
-1.Cambio realizado por Deivid Esteban Ruales
-
-prueba de git
-
-Prueba de pull request
-
-
-adición línea Victoria
-
-Prueba de pull request
-
+﻿hola git
 
 
 
